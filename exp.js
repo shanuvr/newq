@@ -8,7 +8,7 @@ const arr= [];
     arr.push(email)
  })
 
- app.get('/get',(req,res)=>{
+ app.get('/geth',(req,res)=>{
     res.send(arr)
  })
  app.delete('/delete',(req,res)=>{
