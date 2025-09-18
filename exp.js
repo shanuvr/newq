@@ -8,7 +8,7 @@ const arr= [];
     arr.push(email)
  })
 
- app.get('/get'df,(req,res)=>{
+ app.get('/get'(req,res)=>{
     res.send(arr)
  })
  app.delete('/delete',(req,res)=>{
