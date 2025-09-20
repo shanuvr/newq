@@ -16,4 +16,4 @@ const arr= [];
    arr.splice(id,1)
    
  })
- sfgfg
+ sfgfgfgfg
