@@ -15,5 +15,5 @@ const arr= [];
    const id = req.params
    arr.splice(id,1)
    
- })  
+ })   
  
