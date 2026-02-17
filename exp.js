@@ -7,7 +7,7 @@ const arr= [];
     const {email} = req.body;
     arr.push(email)
  })
- 
+  
  app.get('/geth',(req,res)=>{
     res.send(arr)
  })
